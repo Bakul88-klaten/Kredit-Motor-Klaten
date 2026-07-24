@@ -14,6 +14,12 @@ export default function Footer() {
             <Link href="#kalkulator">Kalkulator</Link>
             <Link href="#kontak">Kontak</Link>
           </div>
+          <p className="footerCopy">
+            Dibuat oleh{' '}
+            <a href="https://webklaten.biz.id/" target="_blank" rel="noopener noreferrer">
+              Web Klaten
+            </a>
+          </p>
         </div>
       </footer>
       <a href={WA} target="_blank" rel="noopener noreferrer" className="floatingWa" aria-label="Chat WhatsApp Rio">

@@ -1,4 +1,4 @@
-const WA = 'https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Honda%20di%20Klaten';
+const WA = 'https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Honda%20di%20Klaten';
 
 export default function Kontak() {
   return (
@@ -17,7 +17,7 @@ export default function Kontak() {
               <div className="kontakIcon">📱</div>
               <div>
                 <div className="kontakLabel">WhatsApp / Telepon</div>
-                <div className="kontakVal">+62 877-8165-8231</div>
+                <div className="kontakVal">+62 813-1556-592</div>
               </div>
             </div>
             <div className="kontakCard">

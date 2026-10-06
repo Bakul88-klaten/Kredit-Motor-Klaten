@@ -36,7 +36,7 @@ export default function Kalkulator() {
   const waMsg = result
     ? encodeURIComponent(`Halo Rio, saya tertarik kredit Honda ${result.name}, DP ${dpPct}% = ${formatRp(result.dp)}, tenor ${tenor} bulan. Angsuran ~${formatRp(result.angsuran)}/bln. Mohon diproses segera!`)
     : '';
-  const waLink = `https://wa.me/6287781658231${waMsg ? '?text=' + waMsg : ''}`;
+  const waLink = `https://wa.me/628131556592${waMsg ? '?text=' + waMsg : ''}`;
 
   return (
     <section className="section bgDark2" id="kalkulator">

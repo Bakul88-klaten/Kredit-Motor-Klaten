@@ -2,8 +2,8 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
-const WA_HONDA = 'https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Honda%20di%20Klaten';
-const WA_YAMAHA = 'https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Yamaha%20di%20Klaten';
+const WA_HONDA = 'https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Honda%20di%20Klaten';
+const WA_YAMAHA = 'https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Yamaha%20di%20Klaten';
 
 export default function Header() {
   const pathname = usePathname();

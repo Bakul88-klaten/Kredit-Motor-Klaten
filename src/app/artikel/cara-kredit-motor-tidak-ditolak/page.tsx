@@ -66,7 +66,7 @@ export default function TipsKreditPage() {
             <p>Rio akan membantu proses pengajuan kredit motor Honda maupun Yamaha Anda di Klaten — dari awal hingga motor ada di tangan Anda!</p>
           </div>
 
-          <a href="https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20konsultasi%20kredit%20motor%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta">
+          <a href="https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20konsultasi%20kredit%20motor%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta">
             <strong>💬 Konsultasi Gratis dengan Rio</strong>
             Kredit Motor Honda & Yamaha Klaten — Proses Mudah & Cepat!
           </a>

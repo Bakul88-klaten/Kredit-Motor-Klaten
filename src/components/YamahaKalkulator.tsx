@@ -25,7 +25,7 @@ export default function YamahaKalkulator() {
   const waMsg = result
     ? encodeURIComponent(`Halo Rio, saya tertarik kredit Yamaha ${result.name}, DP ${dpPct}% = ${formatRpY(result.dp)}, tenor ${tenor} bulan. Angsuran ~${formatRpY(result.angsuran)}/bln. Mohon diproses segera!`)
     : '';
-  const waLink = `https://wa.me/6287781658231${waMsg ? '?text=' + waMsg : ''}`;
+  const waLink = `https://wa.me/628131556592${waMsg ? '?text=' + waMsg : ''}`;
   const blue = '#003087';
 
   return (

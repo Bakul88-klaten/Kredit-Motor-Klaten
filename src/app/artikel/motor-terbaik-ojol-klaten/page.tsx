@@ -65,7 +65,7 @@ export default function OjolPage() {
             </div>
           </div>
 
-          <a href="https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20kredit%20motor%20untuk%20ojol%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta">
+          <a href="https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20kredit%20motor%20untuk%20ojol%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta">
             <strong>🛵 Kredit Motor Ojol di Klaten</strong>
             Hubungi Rio — Cicilan Ringan, Motor Langsung Bawa Pulang!
           </a>

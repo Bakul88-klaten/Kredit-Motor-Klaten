@@ -25,12 +25,12 @@ const jsonLd = {
   '@type': 'AutoDealer',
   name: 'Kredit Motor Yamaha Klaten – Rio',
   description: 'Dealer kredit motor Yamaha di Klaten dengan angsuran murah dan proses cepat',
-  telephone: '+62877-8165-8231',
+  telephone: '+62813-1556-592',
   address: { '@type': 'PostalAddress', addressLocality: 'Klaten', addressRegion: 'Jawa Tengah', addressCountry: 'ID' },
   areaServed: 'Klaten',
 };
 
-const WA = 'https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Yamaha%20di%20Klaten';
+const WA = 'https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Yamaha%20di%20Klaten';
 
 export default function YamahaPage() {
   return (
@@ -128,7 +128,7 @@ export default function YamahaPage() {
               </p>
               <div className="kontakCards">
                 {([
-                  ['📱', 'WhatsApp / Telepon', '+62 877-8165-8231'],
+                  ['📱', 'WhatsApp / Telepon', '+62 813-1556-592'],
                   ['👤', 'Sales Executive', 'Rio — Yamaha Klaten'],
                   ['📍', 'Area Pelayanan', 'Klaten & Sekitarnya'],
                   ['🕐', 'Jam Operasional', 'Senin–Sabtu, 08.00–17.00'],

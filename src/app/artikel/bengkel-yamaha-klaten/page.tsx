@@ -61,7 +61,7 @@ export default function BengkelYamahaPage() {
             <p>Dapatkan motor Yamaha impian Anda dengan cicilan ringan. Rio siap membantu proses kredit yang cepat dan mudah di Klaten!</p>
           </div>
 
-          <a href="https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20kredit%20motor%20Yamaha%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta" style={{ background: '#003087' }}>
+          <a href="https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20kredit%20motor%20Yamaha%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta" style={{ background: '#003087' }}>
             <strong>🛵 Kredit Motor Yamaha Klaten</strong>
             Hubungi Rio — DP Ringan, Proses Cepat!
           </a>

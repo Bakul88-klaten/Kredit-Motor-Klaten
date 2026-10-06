@@ -63,7 +63,7 @@ export default function BengkelHondaPage() {
             <p>Jika Anda sedang mencari motor Honda baru dengan cicilan ringan di Klaten, hubungi Rio sekarang. Proses cepat, DP ringan, dan bisa langsung bawa pulang!</p>
           </div>
 
-          <a href="https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20kredit%20motor%20Honda%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta">
+          <a href="https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20kredit%20motor%20Honda%20di%20Klaten" target="_blank" rel="noopener noreferrer" className="articleCta">
             <strong>🛵 Kredit Motor Honda Klaten</strong>
             Hubungi Rio Sekarang — Proses Cepat, DP Ringan!
           </a>

@@ -27,12 +27,12 @@ const jsonLd = {
   '@type': 'AutoDealer',
   name: 'Kredit Motor Honda & Yamaha Klaten – Rio',
   description: 'Dealer kredit motor Honda dan Yamaha di Klaten dengan angsuran murah dan proses cepat',
-  telephone: '+62877-8165-8231',
+  telephone: '+62813-1556-592',
   url: 'https://kreditmotorklaten.biz.id',
   address: { '@type': 'PostalAddress', addressLocality: 'Klaten', addressRegion: 'Jawa Tengah', addressCountry: 'ID' },
   areaServed: ['Klaten','Delanggu','Prambanan','Ceper','Juwiring'],
-  contactPoint: { '@type': 'ContactPoint', telephone: '+62877-8165-8231', contactType: 'sales', availableLanguage: 'Indonesian' },
-  sameAs: [`https://wa.me/6287781658231`],
+  contactPoint: { '@type': 'ContactPoint', telephone: '+62813-1556-592', contactType: 'sales', availableLanguage: 'Indonesian' },
+  sameAs: [`https://wa.me/628131556592`],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-const WA = 'https://wa.me/6287781658231?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Honda%20di%20Klaten';
+const WA = 'https://wa.me/628131556592?text=Halo%20Rio%2C%20saya%20mau%20tanya%20kredit%20motor%20Honda%20di%20Klaten';
 
 export default function Footer() {
   return (
